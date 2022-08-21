@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/divisores/static/css/main.cd57f38a.css",
-    "main.js": "/divisores/static/js/main.a7fdcf85.js",
-    "index.html": "/divisores/index.html",
-    "main.cd57f38a.css.map": "/divisores/static/css/main.cd57f38a.css.map",
-    "main.a7fdcf85.js.map": "/divisores/static/js/main.a7fdcf85.js.map"
+    "main.css": "/divisores-react/static/css/main.cd57f38a.css",
+    "main.js": "/divisores-react/static/js/main.a7fdcf85.js",
+    "index.html": "/divisores-react/index.html",
+    "main.cd57f38a.css.map": "/divisores-react/static/css/main.cd57f38a.css.map",
+    "main.a7fdcf85.js.map": "/divisores-react/static/js/main.a7fdcf85.js.map"
   },
   "entrypoints": [
     "static/css/main.cd57f38a.css",
